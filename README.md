@@ -3,7 +3,7 @@
 **English** | [日本語](README.ja.md)
 
 Official support channel for the Unity asset **Arbor 3**.  
-For more information about **Arbor 3**, please visit <https://arbor.caitsithware.com>.  
+For more information about **Arbor 3**, please visit <https://arbor.caitsithware.com/en/>.  
 This repository does not contain any source code. Questions and bug reports are handled in **Discussions**.
 
 ## Ask a question or share feedback
