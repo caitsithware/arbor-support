@@ -43,3 +43,10 @@ For licensing, contracts, billing, or anything confidential, please contact us d
 - Response times may vary.
 - We can't promise to implement every request, but all feedback helps shape future development
 - Abusive or promotional posts may be removed
+
+## Previous Forum
+
+<https://forum-arbor.caitsithware.com/index.php>
+
+You can view the forum that was previously used for support here.  
+New user registration and posting are not permitted.
