@@ -4,7 +4,7 @@
 
 Official support channel for the Unity asset **Arbor 3**.  
 For more information about **Arbor 3**, please visit <https://arbor.caitsithware.com>.  
-This repository does not contain any source code. Questions, bug reports, and feature requests are handled in **Discussions**.
+This repository does not contain any source code. Questions and bug reports are handled in **Discussions**.
 
 ## Ask a question or share feedback
 
